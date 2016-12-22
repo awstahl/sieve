@@ -2,8 +2,8 @@
 
 Usage:
 
-require './sieve'
-max = 100
+require './sieve'<br>
+max = 100<br>
 Eratosthenes.sieve max
 
 > returns all prime numbers less than max
