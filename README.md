@@ -3,7 +3,9 @@
 Usage:
 
 require './sieve'
+
 max = 100
+
 Eratosthenes.sieve max
 
 > returns all prime numbers less than max
